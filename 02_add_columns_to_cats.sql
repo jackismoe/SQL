@@ -1,1 +1,1 @@
-ALTER TABLE cats ADD COLUMN breed TEXT
+ALTER TABLE cats ADD  breed TEXT
